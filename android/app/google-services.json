@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "10647979815",
+    "firebase_url": "https://amltwo.firebaseio.com",
+    "project_id": "amltwo",
+    "storage_bucket": "amltwo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10647979815:android:d5f9265a8856386da24b02",
+        "android_client_info": {
+          "package_name": "com.amalthea.aml_two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10647979815-3d9ff9qiecrtjsp8laksgbn3ib9drdo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr1EDZF6bLr1hCW1TPkolLMru0x6XsLm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10647979815-3d9ff9qiecrtjsp8laksgbn3ib9drdo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
