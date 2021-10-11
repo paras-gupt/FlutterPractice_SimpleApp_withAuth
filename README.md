@@ -1,4 +1,4 @@
-# aml_two
+# Simple Flutter App with authorization, sign-in, and dashboard functionalities
 
 A new Flutter application.
 
